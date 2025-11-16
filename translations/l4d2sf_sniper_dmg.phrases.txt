@@ -1,26 +1,26 @@
 "Phrases"
 {
-	"鸟狙伤害"
-	{
-		"#format"		"{1:i}"
-		"chi"			"Scout伤害"
-	}
-	
-	"鸟狙伤害1"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"Scout伤害改为{2}且不会因为难度而下降"
-	}
-	
-	"大鸟伤害"
-	{
-		"#format"		"{1:i}"
-		"chi"			"AWP伤害"
-	}
-	
-	"大鸟伤害1"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"AWP伤害改为{2}且不会因为难度而下降"
-	}
+        "鸟狙伤害"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Scout damage"
+        }
+
+        "鸟狙伤害1"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Scout damage is set to {2} and is unaffected by difficulty settings."
+        }
+
+        "大鸟伤害"
+        {
+                "#format"               "{1:i}"
+                "en"                    "AWP damage"
+        }
+
+        "大鸟伤害1"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "AWP damage is set to {2} and is unaffected by difficulty settings."
+        }
 }

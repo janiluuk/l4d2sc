@@ -1,14 +1,14 @@
 "Phrases"
 {
-	"降落伞"
-	{
-		"#format"		"{1:i}"
-		"chi"			"降落伞"
-	}
-	
-	"降落伞1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"空中按住E缓慢降落"
-	}
+        "降落伞"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Parachute"
+        }
+
+        "降落伞1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Hold E while airborne to descend slowly."
+        }
 }

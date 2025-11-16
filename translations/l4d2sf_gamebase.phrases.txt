@@ -1,52 +1,52 @@
 "Phrases"
 {
-	"生存"
-	{
-		"chi"			"生存"
-	}
-	
-	"治疗"
-	{
-		"chi"			"恢复"
-	}
-	
-	"手枪"
-	{
-		"chi"			"手枪"
-	}
-	
-	"霰弹枪"
-	{
-		"chi"			"霰弹枪"
-	}
-	
-	"步枪"
-	{
-		"chi"			"步枪"
-	}
-	
-	"步枪"
-	{
-		"chi"			"步枪"
-	}
-	
-	"狙击枪"
-	{
-		"chi"			"狙击枪"
-	}
-	
-	"特殊武器"
-	{
-		"chi"			"特殊武器"
-	}
-	
-	"特感能力"
-	{
-		"chi"			"特感能力"
-	}
-	
-	"近战武器"
-	{
-		"chi"			"近战武器"
-	}
+        "生存"
+        {
+                "en"                    "Survival"
+        }
+
+        "治疗"
+        {
+                "en"                    "Healing"
+        }
+
+        "手枪"
+        {
+                "en"                    "Pistols"
+        }
+
+        "霰弹枪"
+        {
+                "en"                    "Shotguns"
+        }
+
+        "步枪"
+        {
+                "en"                    "Rifles"
+        }
+
+        "步枪"
+        {
+                "en"                    "Rifles"
+        }
+
+        "狙击枪"
+        {
+                "en"                    "Sniper Rifles"
+        }
+
+        "特殊武器"
+        {
+                "en"                    "Special Weapons"
+        }
+
+        "特感能力"
+        {
+                "en"                    "Special Infected Abilities"
+        }
+
+        "近战武器"
+        {
+                "en"                    "Melee Weapons"
+        }
 }

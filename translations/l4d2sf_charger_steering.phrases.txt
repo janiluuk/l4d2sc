@@ -1,14 +1,14 @@
 "Phrases"
 {
-	"冲锋拐弯"
-	{
-		"#format"		"{1:i}"
-		"chi"			"冲锋拐弯"
-	}
-	
-	"冲锋拐弯1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"牛冲锋时可以拐弯"
-	}
+        "冲锋拐弯"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Charge steering"
+        }
+
+        "冲锋拐弯1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Chargers can turn while charging."
+        }
 }

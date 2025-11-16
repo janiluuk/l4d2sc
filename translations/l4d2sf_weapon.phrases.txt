@@ -3,702 +3,702 @@
 	"手枪弹匣"
 	{
 		"#format"		"{1:i}"
-		"chi"			"手枪弹匣"
+		"en"				"Pistol magazine"
 	}
 	
 	"手枪弹匣1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪弹匣大小+{2}%"
+		"en"				"Pistol magazine capacity +{2}%"
 	}
 	
 	"推次数"
 	{
 		"#format"		"{1:i}"
-		"chi"			"无限推"
+		"en"				"Unlimited shoves"
 	}
 	
 	"推次数1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"推不会疲劳"
+		"en"				"Shoving no longer causes fatigue."
 	}
 	
 	"手枪弹匣2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪弹匣大小+{2}%"
+		"en"				"Pistol magazine capacity +{2}%"
 	}
 	
 	"手枪弹匣3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪弹匣大小+{2}%"
+		"en"				"Pistol magazine capacity +{2}%"
 	}
 	
 	"手枪弹匣4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪弹匣大小+{2}%"
+		"en"				"Pistol magazine capacity +{2}%"
 	}
 	
 	"手枪备弹"
 	{
 		"#format"		"{1:i}"
-		"chi"			"手枪备弹"
+		"en"				"Pistol reserve ammo"
 	}
 	
 	"手枪备弹1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪备弹数量+{2}%"
+		"en"				"Pistol reserve ammo +{2}%"
 	}
 	
 	"手枪备弹2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪备弹数量+{2}%"
+		"en"				"Pistol reserve ammo +{2}%"
 	}
 	
 	"手枪备弹3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪备弹数量+{2}%"
+		"en"				"Pistol reserve ammo +{2}%"
 	}
 	
 	"手枪备弹4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪备弹数量+{2}%"
+		"en"				"Pistol reserve ammo +{2}%"
 	}
 	
 	"手枪射速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"手枪射速"
+		"en"				"Pistol fire rate"
 	}
 	
 	"手枪射速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪射速+{2}%"
+		"en"				"Pistol fire rate +{2}%"
 	}
 	
 	"手枪射速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪射速+{2}%"
+		"en"				"Pistol fire rate +{2}%"
 	}
 	
 	"手枪射速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪射速+{2}%"
+		"en"				"Pistol fire rate +{2}%"
 	}
 	
 	"手枪射速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪射速+{2}%"
+		"en"				"Pistol fire rate +{2}%"
 	}
 	
 	"手枪装速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"手枪填装速度"
+		"en"				"Pistol reload speed"
 	}
 	
 	"手枪装速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪填装速度+{2}%"
+		"en"				"Pistol reload speed +{2}%"
 	}
 	
 	"手枪装速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪填装速度+{2}%"
+		"en"				"Pistol reload speed +{2}%"
 	}
 	
 	"手枪装速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪填装速度+{2}%"
+		"en"				"Pistol reload speed +{2}%"
 	}
 	
 	"手枪装速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"手枪填装速度+{2}%"
+		"en"				"Pistol reload speed +{2}%"
 	}
 	
 	"手枪后座"
 	{
 		"#format"		"{1:i}"
-		"chi"			"手枪后座"
+		"en"				"Pistol recoil"
 	}
 	
 	"手枪后座1"
 	{
 		"#format"		"{1:i}"
-		"chi"			"手枪无后座力"
+		"en"				"Pistols have no recoil."
 	}
 	
 	"霰弹枪弹匣"
 	{
 		"#format"		"{1:i}"
-		"chi"			"霰弹枪弹匣"
+		"en"				"Shotgun magazine"
 	}
 	
 	"霰弹枪弹匣1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪弹匣+{2}%"
+		"en"				"Shotgun magazine size +{2}%"
 	}
 	
 	"霰弹枪弹匣2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪弹匣+{2}%"
+		"en"				"Shotgun magazine size +{2}%"
 	}
 	
 	"霰弹枪弹匣3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪弹匣+{2}%"
+		"en"				"Shotgun magazine size +{2}%"
 	}
 	
 	"霰弹枪弹匣4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪弹匣+{2}%"
+		"en"				"Shotgun magazine size +{2}%"
 	}
 	
 	"霰弹枪备弹"
 	{
 		"#format"		"{1:i}"
-		"chi"			"霰弹枪备弹"
+		"en"				"Shotgun reserve ammo"
 	}
 	
 	"霰弹枪备弹1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪备弹+{2}%"
+		"en"				"Shotgun reserve ammo +{2}%"
 	}
 	
 	"霰弹枪备弹2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪备弹+{2}%"
+		"en"				"Shotgun reserve ammo +{2}%"
 	}
 	
 	"霰弹枪备弹3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪备弹+{2}%"
+		"en"				"Shotgun reserve ammo +{2}%"
 	}
 	
 	"霰弹枪备弹4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪备弹+{2}%"
+		"en"				"Shotgun reserve ammo +{2}%"
 	}
 	
 	"霰弹枪射速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"霰弹枪射速"
+		"en"				"Shotgun fire rate"
 	}
 	
 	"霰弹枪射速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪射速+{2}%"
+		"en"				"Shotgun fire rate +{2}%"
 	}
 	
 	"霰弹枪射速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪射速+{2}%"
+		"en"				"Shotgun fire rate +{2}%"
 	}
 	
 	"霰弹枪射速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪射速+{2}%"
+		"en"				"Shotgun fire rate +{2}%"
 	}
 	
 	"霰弹枪射速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪射速+{2}%"
+		"en"				"Shotgun fire rate +{2}%"
 	}
 	
 	"霰弹枪装速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"霰弹枪装填速度"
+		"en"				"Shotgun reload speed"
 	}
 	
 	"霰弹枪装速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪装填速度+{2}%"
+		"en"				"Shotgun reload speed +{2}%"
 	}
 	
 	"霰弹枪装速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪装填速度+{2}%"
+		"en"				"Shotgun reload speed +{2}%"
 	}
 	
 	"霰弹枪装速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪装填速度+{2}%"
+		"en"				"Shotgun reload speed +{2}%"
 	}
 	
 	"霰弹枪装速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"霰弹枪装填速度+{2}%"
+		"en"				"Shotgun reload speed +{2}%"
 	}
 	
 	"霰弹枪后座"
 	{
 		"#format"		"{1:i}"
-		"chi"			"霰弹枪后座"
+		"en"				"Shotgun recoil"
 	}
 	
 	"霰弹枪后座1"
 	{
 		"#format"		"{1:i}"
-		"chi"			"霰弹枪无后坐力"
+		"en"				"Shotguns have no recoil."
 	}
 	
 	"霰弹枪后座2"
 	{
 		"#format"		"{1:i}"
-		"chi"			"霰弹枪无后坐力/捡起时自带激光"
+		"en"				"Shotguns have no recoil and spawn with a laser sight."
 	}
 	
 	"步枪弹匣"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪弹匣"
+		"en"				"Rifle magazine"
 	}
 	
 	"步枪弹匣1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪弹匣+{2}%"
+		"en"				"Rifle magazine size +{2}%"
 	}
 	
 	"步枪弹匣2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪弹匣+{2}%"
+		"en"				"Rifle magazine size +{2}%"
 	}
 	
 	"步枪弹匣3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪弹匣+{2}%"
+		"en"				"Rifle magazine size +{2}%"
 	}
 	
 	"步枪弹匣4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪弹匣+{2}%"
+		"en"				"Rifle magazine size +{2}%"
 	}
 	
 	"步枪备弹"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪备弹"
+		"en"				"Rifle reserve ammo"
 	}
 	
 	"步枪备弹1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪备弹+{2}%"
+		"en"				"Rifle reserve ammo +{2}%"
 	}
 	
 	"步枪备弹2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪备弹+{2}%"
+		"en"				"Rifle reserve ammo +{2}%"
 	}
 	
 	"步枪备弹3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪备弹+{2}%"
+		"en"				"Rifle reserve ammo +{2}%"
 	}
 	
 	"步枪备弹4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪备弹+{2}%"
+		"en"				"Rifle reserve ammo +{2}%"
 	}
 	
 	"步枪射速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪射速"
+		"en"				"Rifle fire rate"
 	}
 	
 	"步枪射速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪射速+{2}%"
+		"en"				"Rifle fire rate +{2}%"
 	}
 	
 	"步枪射速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪射速+{2}%"
+		"en"				"Rifle fire rate +{2}%"
 	}
 	
 	"步枪射速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪射速+{2}%"
+		"en"				"Rifle fire rate +{2}%"
 	}
 	
 	"步枪射速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪射速+{2}%"
+		"en"				"Rifle fire rate +{2}%"
 	}
 	
 	"步枪装速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪装填速度"
+		"en"				"Rifle reload speed"
 	}
 	
 	"步枪装速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪装填速度+{2}%"
+		"en"				"Rifle reload speed +{2}%"
 	}
 	
 	"步枪装速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪装填速度+{2}%"
+		"en"				"Rifle reload speed +{2}%"
 	}
 	
 	"步枪装速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪装填速度+{2}%"
+		"en"				"Rifle reload speed +{2}%"
 	}
 	
 	"步枪装速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"步枪装填速度+{2}%"
+		"en"				"Rifle reload speed +{2}%"
 	}
 	
 	"步枪中断"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪保留弹匣"
+		"en"				"Rifle magazine retention"
 	}
 	
 	"步枪中断1"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪换弹匣时保留现有弹匣"
+		"en"				"Keep the current rifle magazine when reloading."
 	}
 	
 	"步枪中断2"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪换弹匣时保留现有弹匣/填装时可开火"
+		"en"				"Keep the current rifle magazine when reloading and fire while reloading."
 	}
 	
 	"步枪后座"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪后座力"
+		"en"				"Rifle recoil"
 	}
 	
 	"步枪后座1"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪无后座力"
+		"en"				"Rifles have no recoil."
 	}
 	
 	"步枪后座2"
 	{
 		"#format"		"{1:i}"
-		"chi"			"步枪无后座力/捡起时自带激光"
+		"en"				"Rifles have no recoil and spawn with a laser sight."
 	}
 	
 	"狙击枪弹匣"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪弹匣"
+		"en"				"Sniper magazine"
 	}
 	
 	"狙击枪弹匣1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪弹匣+{2}%"
+		"en"				"Sniper magazine size +{2}%"
 	}
 	
 	"狙击枪弹匣2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪弹匣+{2}%"
+		"en"				"Sniper magazine size +{2}%"
 	}
 	
 	"狙击枪弹匣3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪弹匣+{2}%"
+		"en"				"Sniper magazine size +{2}%"
 	}
 	
 	"狙击枪弹匣4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪弹匣+{2}%"
+		"en"				"Sniper magazine size +{2}%"
 	}
 	
 	"狙击枪备弹"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪备弹"
+		"en"				"Sniper reserve ammo"
 	}
 	
 	"狙击枪备弹1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪备弹+{2}%"
+		"en"				"Sniper reserve ammo +{2}%"
 	}
 	
 	"狙击枪备弹2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪备弹+{2}%"
+		"en"				"Sniper reserve ammo +{2}%"
 	}
 	
 	"狙击枪备弹3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪备弹+{2}%"
+		"en"				"Sniper reserve ammo +{2}%"
 	}
 	
 	"狙击枪备弹4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪备弹+{2}%"
+		"en"				"Sniper reserve ammo +{2}%"
 	}
 	
 	"狙击枪射速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪射速"
+		"en"				"Sniper fire rate"
 	}
 	
 	"狙击枪射速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪射速+{2}%"
+		"en"				"Sniper fire rate +{2}%"
 	}
 	
 	"狙击枪射速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪射速+{2}%"
+		"en"				"Sniper fire rate +{2}%"
 	}
 	
 	"狙击枪射速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪射速+{2}%"
+		"en"				"Sniper fire rate +{2}%"
 	}
 	
 	"狙击枪射速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪射速+{2}%"
+		"en"				"Sniper fire rate +{2}%"
 	}
 	
 	"狙击枪装速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪装填速度"
+		"en"				"Sniper reload speed"
 	}
 	
 	"狙击枪装速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪装填速度+{2}%"
+		"en"				"Sniper reload speed +{2}%"
 	}
 	
 	"狙击枪装速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪装填速度+{2}%"
+		"en"				"Sniper reload speed +{2}%"
 	}
 	
 	"狙击枪装速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪装填速度+{2}%"
+		"en"				"Sniper reload speed +{2}%"
 	}
 	
 	"狙击枪装速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"狙击枪装填速度+{2}%"
+		"en"				"Sniper reload speed +{2}%"
 	}
 	
 	"狙击枪中断"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪保留弹匣"
+		"en"				"Sniper magazine retention"
 	}
 	
 	"狙击枪中断1"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪换弹时保留当前弹药"
+		"en"				"Keep the current sniper magazine when reloading."
 	}
 	
 	"狙击枪中断1"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪换弹时保留当前弹药/填装时可开火"
+		"en"				"Keep the current sniper magazine when reloading and fire while reloading."
 	}
 	
 	"狙击枪后座"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪后座"
+		"en"				"Sniper recoil"
 	}
 	
 	"狙击枪后座1"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪无后座力"
+		"en"				"Sniper rifles have no recoil."
 	}
 	
 	"狙击枪后座2"
 	{
 		"#format"		"{1:i}"
-		"chi"			"狙击枪无后座力/捡起时自带激光"
+		"en"				"Sniper rifles have no recoil and spawn with a laser sight."
 	}
 	
 	"近战范围"
 	{
 		"#format"		"{1:i}"
-		"chi"			"近战范围"
+		"en"				"Melee range"
 	}
 	
 	"近战范围1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"近战攻击范围+{2}%"
+		"en"				"Melee attack range +{2}%"
 	}
 	
 	"近战范围2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"近战攻击范围+{2}%"
+		"en"				"Melee attack range +{2}%"
 	}
 	
 	"近战范围3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"近战攻击范围+{2}%"
+		"en"				"Melee attack range +{2}%"
 	}
 	
 	"近战范围4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"近战攻击范围+{2}%"
+		"en"				"Melee attack range +{2}%"
 	}
 	
 	"近战攻速"
 	{
 		"#format"		"{1:i}"
-		"chi"			"近战攻速"
+		"en"				"Melee swing speed"
 	}
 	
 	"近战攻速1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"近战攻速+{2}%"
+		"en"				"Melee swing speed +{2}%"
 	}
 	
 	"近战攻速2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"近战攻速+{2}%"
+		"en"				"Melee swing speed +{2}%"
 	}
 	
 	"近战攻速3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"近战攻速+{2}%"
+		"en"				"Melee swing speed +{2}%"
 	}
 	
 	"近战攻速4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"近战攻速+{2}%"
+		"en"				"Melee swing speed +{2}%"
 	}
 	
 	"推范围"
 	{
 		"#format"		"{1:i}"
-		"chi"			"推范围"
+		"en"				"Shove range"
 	}
 	
 	"推范围1"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"推范围+{2}%"
+		"en"				"Shove range +{2}%"
 	}
 	
 	"推范围2"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"推范围+{2}%"
+		"en"				"Shove range +{2}%"
 	}
 	
 	"推范围3"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"推范围+{2}%"
+		"en"				"Shove range +{2}%"
 	}
 	
 	"推范围4"
 	{
 		"#format"		"{1:i},{2:.0f}"
-		"chi"			"推范围+{2}%"
+		"en"				"Shove range +{2}%"
 	}
 	
 	"推牛"
 	{
 		"#format"		"{1:i}"
-		"chi"			"推牛"
+		"en"				"Charger shove"
 	}
 	
 	"推牛1"
 	{
 		"#format"		"{1:i}"
-		"chi"			"可以推牛"
+		"en"				"Allows shoving Chargers."
 	}
 	
 	"备弹剩余"
 	{
 		"#format"		"{1:i}"
-		"chi"			"额外备用弹药剩余：{1}"
+		"en"				"Extra reserve ammo remaining: {1}"
 	}
 }

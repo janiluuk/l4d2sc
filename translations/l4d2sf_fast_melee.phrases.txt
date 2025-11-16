@@ -1,14 +1,14 @@
 "Phrases"
 {
-	"速砍"
-	{
-		"#format"		"{1:i}"
-		"chi"			"速砍"
-	}
-	
-	"速砍1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"允许速砍"
-	}
+        "速砍"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Rapid melee"
+        }
+
+        "速砍1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows continuous melee swings."
+        }
 }

@@ -1,152 +1,152 @@
 "Phrases"
 {
-	"连跳"
-	{
-		"#format"		"{1:i}"
-		"chi"			"连跳"
-	}
-	
-	"连跳1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"允许自动连跳{1}次"
-	}
-	
-	"连跳2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"允许自动连跳{1}次"
-	}
-	
-	"连跳3"
-	{
-		"#format"		"{1:i}"
-		"chi"			"允许自动连跳{1}次"
-	}
-	
-	"连跳4"
-	{
-		"#format"		"{1:i}"
-		"chi"			"允许自动连跳{1}次"
-	}
-	
-	"连跳5"
-	{
-		"#format"		"{1:i}"
-		"chi"			"允许自动连跳{1}次"
-	}
-	
-	"多重跳"
-	{
-		"#format"		"{1:i}"
-		"chi"			"踏空跳"
-	}
-	
-	"多重跳1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"允许在空中跳跃{1}次"
-	}
-	
-	"多重跳2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"允许在空中跳跃{1}次"
-	}
-	
-	"跳高"
-	{
-		"#format"		"{1:i}"
-		"chi"			"跳高"
-	}
-	
-	"跳高1"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"起跳高度+{2}%"
-	}
-	
-	"跳高2"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"起跳高度+{2}%"
-	}
-	
-	"跳高3"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"起跳高度+{2}%"
-	}
-	
-	"跳高4"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"起跳高度+{2}%"
-	}
-	
-	"跳远"
-	{
-		"#format"		"{1:i}"
-		"chi"			"跳远"
-	}
-	
-	"跳远1"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"起跳距离+{2}%"
-	}
-	
-	"跳远2"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"起跳距离+{2}%"
-	}
-	
-	"跳远3"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"起跳距离+{2}%"
-	}
-	
-	"跳远4"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"起跳距离+{2}%"
-	}
-	
-	"地速"
-	{
-		"#format"		"{1:i}"
-		"chi"			"地速"
-	}
-	
-	"地速1"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"移动速度+{1}%"
-	}
-	
-	"地速2"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"移动速度+{1}%"
-	}
-	
-	"地速3"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"移动速度+{1}%"
-	}
-	
-	"地速4"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"移动速度+{1}%"
-	}
-	
-	"地速5"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"移动速度+{1}%"
-	}
+        "连跳"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Auto-hop"
+        }
+
+        "连跳1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows automatic hopping {1} times."
+        }
+
+        "连跳2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows automatic hopping {1} times."
+        }
+
+        "连跳3"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows automatic hopping {1} times."
+        }
+
+        "连跳4"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows automatic hopping {1} times."
+        }
+
+        "连跳5"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows automatic hopping {1} times."
+        }
+
+        "多重跳"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Midair jump"
+        }
+
+        "多重跳1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows up to {1} jumps while airborne."
+        }
+
+        "多重跳2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows up to {1} jumps while airborne."
+        }
+
+        "跳高"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Jump height"
+        }
+
+        "跳高1"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Jump height +{2}%."
+        }
+
+        "跳高2"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Jump height +{2}%."
+        }
+
+        "跳高3"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Jump height +{2}%."
+        }
+
+        "跳高4"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Jump height +{2}%."
+        }
+
+        "跳远"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Jump distance"
+        }
+
+        "跳远1"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Jump distance +{2}%."
+        }
+
+        "跳远2"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Jump distance +{2}%."
+        }
+
+        "跳远3"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Jump distance +{2}%."
+        }
+
+        "跳远4"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Jump distance +{2}%."
+        }
+
+        "地速"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Ground speed"
+        }
+
+        "地速1"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Movement speed +{2}%."
+        }
+
+        "地速2"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Movement speed +{2}%."
+        }
+
+        "地速3"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Movement speed +{2}%."
+        }
+
+        "地速4"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Movement speed +{2}%."
+        }
+
+        "地速5"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Movement speed +{2}%."
+        }
 }

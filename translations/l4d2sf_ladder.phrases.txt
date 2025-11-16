@@ -1,26 +1,26 @@
 "Phrases"
 {
-	"梯子上掏枪"
-	{
-		"#format"		"{1:i}"
-		"chi"			"梯子上掏枪"
-	}
-	
-	"梯子上掏枪1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"在梯子上可以掏出武器"
-	}
-	
-	"爬梯推开阻碍"
-	{
-		"#format"		"{1:i}"
-		"chi"			"爬梯推开阻碍"
-	}
-	
-	"爬梯推开阻碍1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"爬梯子时推开上方障碍物"
-	}
+        "梯子上掏枪"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Draw weapon while on ladders"
+        }
+
+        "梯子上掏枪1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Allows you to pull out weapons while climbing a ladder."
+        }
+
+        "爬梯推开阻碍"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Push obstacles while climbing"
+        }
+
+        "爬梯推开阻碍1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Lets you shove obstacles above you when climbing a ladder."
+        }
 }
