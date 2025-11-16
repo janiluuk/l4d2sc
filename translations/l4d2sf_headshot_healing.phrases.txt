@@ -1,26 +1,26 @@
 "Phrases"
 {
-	"爆头回血"
-	{
-		"#format"		"{1:i}"
-		"chi"			"爆头回血"
-	}
-	
-	"爆头回血1"
-	{
-		"#format"		"{1:i},{2:i},{3:i}"
-		"chi"			"爆头击杀特感回复{2}点生命值,上限{3}"
-	}
-	
-	"近战回血"
-	{
-		"#format"		"{1:i}"
-		"chi"			"近战回血"
-	}
-	
-	"近战回血1"
-	{
-		"#format"		"{1:i},{2:i},{3:i}"
-		"chi"			"近战击杀特感回复{2}点生命值,上限{3}"
-	}
+        "爆头回血"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Headshot healing"
+        }
+
+        "爆头回血1"
+        {
+                "#format"               "{1:i},{2:i},{3:i}"
+                "en"                    "Killing a Special Infected with a headshot restores {2} health, up to {3}."
+        }
+
+        "近战回血"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Melee healing"
+        }
+
+        "近战回血1"
+        {
+                "#format"               "{1:i},{2:i},{3:i}"
+                "en"                    "Killing a Special Infected with melee restores {2} health, up to {3}."
+        }
 }

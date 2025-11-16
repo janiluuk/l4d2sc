@@ -1,218 +1,218 @@
 "Phrases"
 {
-	"药丸强化"
-	{
-		"#format"		"{1:i}"
-		"chi"			"药丸强化"
-	}
-	
-	"针筒强化"
-	{
-		"#format"		"{1:i}"
-		"chi"			"针筒强化"
-	}
-	
-	"药包强化"
-	{
-		"#format"		"{1:i}"
-		"chi"			"药包强化"
-	}
-	
-	"电击强化"
-	{
-		"#format"		"{1:i}"
-		"chi"			"电击强化"
-	}
-	
-	"递药保护"
-	{
-		"#format"		"{1:i}"
-		"chi"			"递药保护"
-	}
-	
-	"药丸强化1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"药丸治疗量+30"
-	}
-	
-	"药丸强化2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"药丸治疗量+50"
-	}
-	
-	"药丸强化3"
-	{
-		"#format"		"{1:i}"
-		"chi"			"药丸治疗量+50/兴奋5秒"
-	}
-	
-	"针筒强化1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"针筒治疗量+20/兴奋时间+5秒"
-	}
-	
-	"针筒强化2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"针筒治疗量+50/兴奋时间+10秒"
-	}
-	
-	"针筒强化3"
-	{
-		"#format"		"{1:i}"
-		"chi"			"针筒治疗量+70/兴奋时间+15秒"
-	}
-	
-	"药包强化1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"医疗包恢复满血"
-	}
-	
-	"药包强化2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"医疗包恢复满血/兴奋5秒"
-	}
-	
-	"电击强化1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"电击血量+30"
-	}
-	
-	"电击强化2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"电击血量+50"
-	}
-	
-	"电击强化3"
-	{
-		"#format"		"{1:i}"
-		"chi"			"电击血量+50/兴奋5秒"
-	}
-	
-	"递药保护1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"递药和被递药时不会强制切出来"
-	}
-	
-	"开局回血"
-	{
-		"#format"		"{1:i}"
-		"chi"			"开局回血"
-	}
-	
-	"开局回血1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"回合开始时恢复满血"
-	}
-	
-	"药丸强化"
-	{
-		"#format"		"{1:i}"
-		"chi"			"药丸强化"
-	}
-	
-	"治疗黑白"
-	{
-		"#format"		"{1:i}"
-		"chi"			"治疗濒死"
-	}
-	
-	"治疗黑白1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"打针可治疗濒死状态,每局限{1}次"
-	}
-	
-	"治疗黑白2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"打针/吃药可治疗濒死状态,每局限{1}次"
-	}
-	
-	"倒地次数"
-	{
-		"#format"		"{1:i}"
-		"chi"			"倒地次数"
-	}
-	
-	"倒地次数1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"每局有{1}次额外的倒地次数"
-	}
-	
-	"倒地次数2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"每局有{1}次额外的倒地次数"
-	}
-	
-	"救起血量"
-	{
-		"#format"		"{1:i}"
-		"chi"			"救起血量"
-	}
-	
-	"救起血量1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"救起血量+20"
-	}
-	
-	"救起血量2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"救起血量+50"
-	}
-	
-	"救起血量3"
-	{
-		"#format"		"{1:i}"
-		"chi"			"救起血量+70"
-	}
-	
-	"救起血量4"
-	{
-		"#format"		"{1:i}"
-		"chi"			"救起血量+70/兴奋5秒"
-	}
-	
-	"倒地血量"
-	{
-		"#format"		"{1:i}"
-		"chi"			"倒地血量"
-	}
-	
-	"倒地血量1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"倒地血量+50"
-	}
-	
-	"倒地血量2"
-	{
-		"#format"		"{1:i}"
-		"chi"			"倒地血量+100"
-	}
-	
-	"倒地血量3"
-	{
-		"#format"		"{1:i}"
-		"chi"			"倒地血量+150"
-	}
-	
-	"倒地血量4"
-	{
-		"#format"		"{1:i}"
-		"chi"			"倒地血量+200"
-	}
+        "药丸强化"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Pills boost"
+        }
+
+        "针筒强化"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Adrenaline boost"
+        }
+
+        "药包强化"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Medkit boost"
+        }
+
+        "电击强化"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Defib boost"
+        }
+
+        "递药保护"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Healing exchange protection"
+        }
+
+        "药丸强化1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Pills heal +30"
+        }
+
+        "药丸强化2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Pills heal +50"
+        }
+
+        "药丸强化3"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Pills heal +50 and grant a 5 second adrenaline rush"
+        }
+
+        "针筒强化1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Adrenaline heals +20 and lasts +5s"
+        }
+
+        "针筒强化2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Adrenaline heals +50 and lasts +10s"
+        }
+
+        "针筒强化3"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Adrenaline heals +70 and lasts +15s"
+        }
+
+        "药包强化1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Medkits restore full health"
+        }
+
+        "药包强化2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Medkits restore full health and grant 5 seconds of adrenaline"
+        }
+
+        "电击强化1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Defibs revive with +30 HP"
+        }
+
+        "电击强化2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Defibs revive with +50 HP"
+        }
+
+        "电击强化3"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Defibs revive with +50 HP and grant 5 seconds of adrenaline"
+        }
+
+        "递药保护1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Giving or receiving items no longer forces weapon switching"
+        }
+
+        "开局回血"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Start-of-round healing"
+        }
+
+        "开局回血1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Begin each round at full health"
+        }
+
+        "药丸强化"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Pills boost"
+        }
+
+        "治疗黑白"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Critical state treatment"
+        }
+
+        "治疗黑白1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Adrenaline can cure black-and-white status {1} times per round"
+        }
+
+        "治疗黑白2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Adrenaline and pills can cure black-and-white status {1} times per round"
+        }
+
+        "倒地次数"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Extra incap count"
+        }
+
+        "倒地次数1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Gain {1} additional incapitation per round"
+        }
+
+        "倒地次数2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Gain {1} additional incapitation per round"
+        }
+
+        "救起血量"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Revive health"
+        }
+
+        "救起血量1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Revives grant +20 HP"
+        }
+
+        "救起血量2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Revives grant +50 HP"
+        }
+
+        "救起血量3"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Revives grant +70 HP"
+        }
+
+        "救起血量4"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Revives grant +70 HP and 5 seconds of adrenaline"
+        }
+
+        "倒地血量"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Incap health"
+        }
+
+        "倒地血量1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Incapacitated HP +50"
+        }
+
+        "倒地血量2"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Incapacitated HP +100"
+        }
+
+        "倒地血量3"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Incapacitated HP +150"
+        }
+
+        "倒地血量4"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Incapacitated HP +200"
+        }
 }

@@ -1,29 +1,29 @@
 "Phrases"
 {
-	"夜视仪"
-	{
-		"#format"		"{1:i}"
-		"chi"			"夜视仪"
-	}
-	
-	"夜视仪1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"双击F切换夜视仪"
-	}
-	
-	"夜视仪"
-	{
-		"chi"			"夜视仪"
-	}
-	
-	"夜视仪开启"
-	{
-		"chi"			"夜视仪开启"
-	}
-	
-	"夜视仪关闭"
-	{
-		"chi"			"夜视仪关闭"
-	}
+        "夜视仪"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Night vision"
+        }
+
+        "夜视仪1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Double-tap F to toggle night vision."
+        }
+
+        "夜视仪"
+        {
+                "en"                    "Night vision"
+        }
+
+        "夜视仪开启"
+        {
+                "en"                    "Night vision enabled"
+        }
+
+        "夜视仪关闭"
+        {
+                "en"                    "Night vision disabled"
+        }
 }

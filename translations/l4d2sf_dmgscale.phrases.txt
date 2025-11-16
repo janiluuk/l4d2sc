@@ -1,56 +1,56 @@
 "Phrases"
 {
-	"受伤修正"
-	{
-		"#format"		"{1:i}"
-		"chi"			"受伤降级"
-	}
-	
-	"伤害修正"
-	{
-		"#format"		"{1:i}"
-		"chi"			"输出升级"
-	}
-	
-	"受伤修正1"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"受到伤害至多到 困难 难度\n效果：受到伤害-{2}%"
-	}
-	
-	"受伤修正2"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"受到伤害至多到 普通 难度\n效果：受到伤害-{2}%"
-	}
-	
-	"受伤修正3"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"受到伤害至多到 简单 难度\n效果：受到伤害-{2}%"
-	}
-	
-	"伤害修正1"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"忽略写实伤害下降效果\n效果：输出伤害+{2}%"
-	}
-	
-	"伤害修正2"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"忽略写实伤害下降效果/造成伤害至少为 困难 难度\n效果：对普感输出伤害+{2}%"
-	}
-	
-	"伤害修正3"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"忽略写实伤害下降效果/造成伤害至少为 普通 难度\n效果：对普感输出伤害+{2}%"
-	}
-	
-	"伤害修正4"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"忽略写实伤害下降效果/造成伤害至少为 简单 难度\n效果：对普感输出伤害+{2}%"
-	}
+        "受伤修正"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Incoming damage scaling"
+        }
+
+        "伤害修正"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Outgoing damage scaling"
+        }
+
+        "受伤修正1"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Incoming damage is reduced to Advanced levels. Effect: damage taken -{2}%."
+        }
+
+        "受伤修正2"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Incoming damage is reduced to Normal levels. Effect: damage taken -{2}%."
+        }
+
+        "受伤修正3"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Incoming damage is reduced to Easy levels. Effect: damage taken -{2}%."
+        }
+
+        "伤害修正1"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Ignore Realism damage penalty. Effect: damage dealt +{2}%."
+        }
+
+        "伤害修正2"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Ignore Realism penalty and deal at least Advanced damage to commons. Effect: +{2}% common damage."
+        }
+
+        "伤害修正3"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Ignore Realism penalty and deal at least Normal damage to commons. Effect: +{2}% common damage."
+        }
+
+        "伤害修正4"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Ignore Realism penalty and deal at least Easy damage to commons. Effect: +{2}% common damage."
+        }
 }

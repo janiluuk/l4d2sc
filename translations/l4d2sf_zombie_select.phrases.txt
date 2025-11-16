@@ -1,14 +1,14 @@
 "Phrases"
 {
-	"僵尸切换"
-	{
-		"#format"		"{1:i}"
-		"chi"			"僵尸切换"
-	}
-	
-	"僵尸切换1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"灵魂状态按右键可切换角色"
-	}
+        "僵尸切换"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Zombie swapping"
+        }
+
+        "僵尸切换1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Press secondary attack while ghosted to switch special infected."
+        }
 }

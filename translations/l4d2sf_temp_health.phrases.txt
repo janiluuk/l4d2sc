@@ -1,32 +1,32 @@
 "Phrases"
 {
-	"虚血承担"
-	{
-		"#format"		"{1:i}"
-		"chi"			"虚血承担"
-	}
-	
-	"虚血承担1"
-	{
-		"#format"		"{1:i}"
-		"chi"			"受伤时优先使用虚血承担"
-	}
-	"虚血转换"
-	{
-		"#format"		"{1:i}"
-		"chi"			"虚血转换"
-	}
-	
-	"虚血转换1"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"虚血不会衰减"
-	}
-	
-	"虚血转换2"
-	{
-		"#format"		"{1:i},{2:.0f}"
-		"chi"			"虚血缓慢转换为实血"
-	}
-	
+        "虚血承担"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Temporary health buffer"
+        }
+
+        "虚血承担1"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Damage is absorbed by temporary health first."
+        }
+
+        "虚血转换"
+        {
+                "#format"               "{1:i}"
+                "en"                    "Temporary health conversion"
+        }
+
+        "虚血转换1"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Temporary health no longer decays."
+        }
+
+        "虚血转换2"
+        {
+                "#format"               "{1:i},{2:.0f}"
+                "en"                    "Temporary health slowly converts into permanent health."
+        }
 }
